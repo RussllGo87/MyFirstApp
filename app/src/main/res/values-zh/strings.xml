@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">演示程序</string>
+    <string name="edit_message">输入内容</string>
+    <string name="button_send">发送</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_main">主界面</string>
+    <string name="title_activity_display_message">消息显示界面</string>
+
+    <string name="hello_world">你好!</string>
+    <string name="title_activity_music_play">音乐播放界面</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_stop">停止</string>
+    <string name="title_activity_compose_message">消息发送界面</string>
+    <string name="btn_music_play">音乐播放</string>
+    <string name="btn_compose_message">发送消息</string>
+</resources>
